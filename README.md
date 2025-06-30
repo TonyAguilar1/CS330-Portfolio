@@ -1,6 +1,6 @@
 
 **How do I approach designing software?**
-I usually start with a visual idea or concept — in this case, I knew I wanted to model a video game controller using low-polygon 3D shapes. From there, I break down the design into smaller parts: what shapes make up the object, what the scene needs (like a floor or background), and how users will interact with it. I think about what I want the program to look like and feel like, and then design the components to support that.
+I usually start with a visual idea or concept, in this case, I knew I wanted to model a video game controller using low-polygon 3D shapes. From there, I break down the design into smaller parts: what shapes make up the object, what the scene needs (like a floor or background), and how users will interact with it. I think about what I want the program to look like and feel like, and then design the components to support that.
 
 **What new design skills has your work on the project helped you to craft?**
 This project definitely sharpened my ability to break complex objects down into basic geometric components — like spheres, boxes, and cylinders. I also learned how to work within limitations (like polygon count and object limits), and how to design around those with creative solutions. Visually, it also helped me think more critically about lighting, texture mapping, and composition.
