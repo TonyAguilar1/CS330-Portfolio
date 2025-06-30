@@ -6,10 +6,10 @@ I usually start with a visual idea or concept — in this case, I knew I wanted 
 This project definitely sharpened my ability to break complex objects down into basic geometric components — like spheres, boxes, and cylinders. I also learned how to work within limitations (like polygon count and object limits), and how to design around those with creative solutions. Visually, it also helped me think more critically about lighting, texture mapping, and composition.
 
 **What design process did you follow for your project work?**
-I started with a rough mental sketch of the object (the controller) and figured out how to recreate it with primitives. Then I iteratively tested the look and adjusted as I went — moving boxes around, resizing shapes, and later adding textures. I followed a "build → test → tweak" process over and over until it felt right.
+I started with a rough mental sketch of the object (the controller) and figured out how to recreate it with primitives. Then I iteratively tested the look and adjusted as I went , moving boxes around, resizing shapes, and later adding textures. I followed a "build ,test , tweak" process over and over until it felt right.
 
 **How could tactics from your design approach be applied in future work?**
-The "build small and iterate" approach will definitely help in future software projects — especially when working with visual or interactive elements. It’s easy to get stuck planning forever, but getting a rough version running helps you see what works and what doesn’t much faster.
+The "build small and iterate" approach will definitely help in future software projects, especially when working with visual or interactive elements. It’s easy to get stuck planning forever, but getting a rough version running helps you see what works and what doesn’t much faster.
 
 **How do I approach developing programs?**
 I usually start from examples or templates and then start modifying based on what I need. For this project, I relied a lot on trial and error and debugging. I break development into phases — load textures, set up lighting, render objects, then test interactions.
