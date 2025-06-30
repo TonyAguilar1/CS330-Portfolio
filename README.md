@@ -3,7 +3,7 @@
 I usually start with a visual idea or concept, in this case, I knew I wanted to model a video game controller using low-polygon 3D shapes. From there, I break down the design into smaller parts: what shapes make up the object, what the scene needs (like a floor or background), and how users will interact with it. I think about what I want the program to look like and feel like, and then design the components to support that.
 
 **What new design skills has your work on the project helped you to craft?**
-This project definitely sharpened my ability to break complex objects down into basic geometric components — like spheres, boxes, and cylinders. I also learned how to work within limitations (like polygon count and object limits), and how to design around those with creative solutions. Visually, it also helped me think more critically about lighting, texture mapping, and composition.
+This project definitely sharpened my ability to break complex objects down into basic geometric components like spheres, boxes, and cylinders. I also learned how to work within limitations (like polygon count and object limits), and how to design around those with creative solutions. Visually, it also helped me think more critically about lighting, texture mapping, and composition.
 
 **What design process did you follow for your project work?**
 I started with a rough mental sketch of the object (the controller) and figured out how to recreate it with primitives. Then I iteratively tested the look and adjusted as I went , moving boxes around, resizing shapes, and later adding textures. I followed a "build ,test , tweak" process over and over until it felt right.
@@ -12,7 +12,7 @@ I started with a rough mental sketch of the object (the controller) and figured 
 The "build small and iterate" approach will definitely help in future software projects, especially when working with visual or interactive elements. It’s easy to get stuck planning forever, but getting a rough version running helps you see what works and what doesn’t much faster.
 
 **How do I approach developing programs?**
-I usually start from examples or templates and then start modifying based on what I need. For this project, I relied a lot on trial and error and debugging. I break development into phases — load textures, set up lighting, render objects, then test interactions.
+I usually start from examples or templates and then start modifying based on what I need. For this project, I relied a lot on trial and error and debugging. I break development into phases , load textures, set up lighting, render objects, then test interactions.
 
 **What new development strategies did you use while working on your 3D scene?**
 One big one was texture management , I implemented a texture loading system that tied specific textures to objects. I also learned to use shaders more effectively for lighting and material control. Toward the end, I added conditions for things like object disappearance and dynamic material swapping (like damage textures).
